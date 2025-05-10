@@ -11,17 +11,17 @@ int main() {
         std::cout << "You failed";
     }
 
-    int
 
+/*  Unessary
     // if else (Unnessary Example
     if (studentGrade < 70) {
         std::cout << "You failed";
     } else {
         std::cout << "You passed";
     }
+*/
 
     // switch statement
-
 
     return 0;
 }
