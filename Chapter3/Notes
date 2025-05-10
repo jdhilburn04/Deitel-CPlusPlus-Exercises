@@ -1,0 +1,27 @@
+Objectives:
+- Conditional statements
+- Iteration statements
+- Counter controlled iteration
+- Nested control statements
+- Compound assignment/ increment/ decrement operators
+- Why fundamental data types aren't portable
+
+Conditional Statements
+    If statement:
+    - Performs an action if condition is true, or skips if condition is false
+    - Single action
+
+    If else statement:
+    - Performs an action if condition is true, or performs another action if the condition is false
+    - Double action
+
+    Switches:
+    - Performs many different actions depending on the value of the expression
+    - Multi action
+
+Iteration Statements in C++
+    While
+    For
+    For (range based or for-each)
+    do while
+
